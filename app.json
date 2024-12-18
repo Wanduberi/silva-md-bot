@@ -1,5 +1,5 @@
 {
-  "name": "SILVA AI",
+  "name": "Lunatic MD",
   "description": " with great power comes with great responsibilities. follow the deployment process below.",
   "keywords": [
     "whatsapp bot"
@@ -10,12 +10,12 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "254700143167"
+      "value": "254783128146"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
       "required": true,
-      "value": "SILVA-MD-BOT©®"
+      "value": "LUNATIC-MD-BOT©®"
     },
     "SESSION_ID": {
       "description": "your session id",
